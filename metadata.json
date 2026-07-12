@@ -1,0 +1,6 @@
+{
+  "name": "ShareFare",
+  "description": "Share ride fares with nearby commuters going in the same direction, match securely, chat, and settle payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
